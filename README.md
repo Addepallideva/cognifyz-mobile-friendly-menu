@@ -1,0 +1,1 @@
+# cognifyz-mobile-friendly-menu
